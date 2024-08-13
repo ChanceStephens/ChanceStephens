@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chancestephens&label=Profile%20views&color=0e75b6&style=flat" alt="chancestephens" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chancestephens" alt="chancestephens" /></a> </p>
 
 - 🌱 I’m currently expanding my knowledge of **Full Stack JavaScript**
 
