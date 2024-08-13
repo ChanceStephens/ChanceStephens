@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chance Stephens</h1>
 <h3 align="center">Full Stack Web Developer | Dedicated Husband & Father | Avid World Traveler</h3>
-<h2>I am a budding web developer with a passion for tech and creativity.  I am always looking to grow my knowledge and expand my range of talents!</h2>
+<h4>I am a budding web developer with a passion for tech and creativity.  I am always looking to grow my knowledge and expand my range of talents!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chancestephens&label=Profile%20views&color=0e75b6&style=flat" alt="chancestephens" /> </p>
 
